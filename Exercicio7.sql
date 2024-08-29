@@ -1,0 +1,1 @@
+SELECT * FROM clientes order by nome ASC;
