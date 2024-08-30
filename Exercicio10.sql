@@ -1,0 +1,1 @@
+UPDATE clientes set email = 'novoemail@.com' where id = 4;
